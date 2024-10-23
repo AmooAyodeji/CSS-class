@@ -1,0 +1,15 @@
+.para{
+   text-align: center;
+}
+#cla{
+   border: 2px;
+   border-radius: 5px;
+   border-color: black;
+   border-style: inset;
+   width: 30%;
+   margin: auto;
+}
+#fac{
+   color: blue;
+   font-family: sans-serif;
+}
